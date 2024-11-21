@@ -1,0 +1,5 @@
+Кількість рядків: 4
+Рядок 1: Hello world (Слів: 2)
+Рядок 2: This is a test file (Слів: 5)
+Рядок 3: Python programming is fun (Слів: 4)
+Рядок 4: Have a great day (Слів: 4)
